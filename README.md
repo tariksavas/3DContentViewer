@@ -1,13 +1,13 @@
-# 3DContentViewer
+# Description
 
-1. At the beginning of the application, you need to create a nickname and log in. Created nicks are saved in Firebase database.
-2. The application interface is created according to the content of the json file downloaded from the specified url. 
-3. It downloads models from the urls in the json file with the interaction of model buttons created according to the content of the json file. 
-4. Downloaded models are shown in AR environment.
-5. You can also message other users according to the nickname you create.
-6. Users can send model urls among themselves and download and review these models.
+- At the beginning of the application, you need to create a nickname and log in. Created nicks are saved in Firebase database.
+- The application interface is created according to the content of the json file downloaded from the specified url. 
+- It downloads models from the urls in the json file with the interaction of model buttons created according to the content of the json file. 
+- Downloaded models are shown in AR environment.
+- You can also message other users according to the nickname you create.
+- Users can send model urls among themselves and download and review these models.
 
-A.	Scripts
+# Scripts
 
 a.	ContentSystem
 1.	JsonDownloader:
