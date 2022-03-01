@@ -1,0 +1,14 @@
+[
+    {
+        "assetName" : "dancer",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/dancer-Android"
+    },
+    {
+        "assetName" : "kid",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/kid-Android"
+    },
+    {
+        "assetName" : "monster",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/monster-Android"
+    }
+]
